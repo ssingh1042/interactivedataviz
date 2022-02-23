@@ -23,8 +23,8 @@ table {
 }
 
 thead {
-  background-color: slateblue;
-  color: white;
+  background-color: rgb(197, 67, 158);
+  color: rgb(5, 5, 5);
 }
 
 td {
@@ -33,5 +33,5 @@ td {
 }
 
 .mult-word {
-  color: salmon;
+  color: rgb(153, 23, 240);
 }
